@@ -3,16 +3,12 @@
   "version": "1.0.0",
   "description": "CMS-style blog site",
   "main": "server.js",
-  "scripts": {
-    "test": "jest",
+  "scripts": {    
     "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^26.0.1"
-  },
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^6.1.1",
