@@ -67,7 +67,7 @@ MVC Tech Blog Dashboard Page
 
 GitHub: https://github.com/arinielson/mvc-tech-blog
 
-Heroku: 
+Heroku: https://young-bayou-81815.herokuapp.com/
 
 
 ## Credits
